@@ -13,10 +13,7 @@
 </div>
 
 
-<!--
+
 <div align="center">
   <img src="https://github.com/Jose-augusto-git/Jose-augusto-git/blob/output/github-contribution-grid-snake.svg">
 </div> 
--->
-
-![Snake animation](https://github.com/pistilligabriel/pistilligabriel/blob/output/github-contribution-grid-snake.svg)
