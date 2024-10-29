@@ -1,12 +1,34 @@
 
-<div align="center">
-<!--  <img height="160em" src="https://user-images.githubusercontent.com/73261477/154606660-8967feca-4a38-4a3b-9722-7a5b49d785ad.gif">-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistilligabriel&layout=compact&theme=dark">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pistilligabriel&theme=dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=pistilligabriel&show_icons=true&theme=dark"/>
- 
-    
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">  
-</div>
+# Gabriel Pistilli Carra
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-pistilli/)
+
+
+## 👋 Olá!
+
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções inovadoras e impactantes. Com uma sólida formação em programação e uma mente curiosa, estou sempre em busca de novos desafios para expandir meu conhecimento e habilidades.
+
+## 🚀 Habilidades Técnicas
+
+- Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=java,javascript,)](https://skillicons.dev)
+- Frameworks e Bibliotecas: 
+
+    [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,angular)](https://skillicons.dev)
+- Dados: 
+
+    [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+- Ferramentas e Tecnologias: 
+
+    [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,idea,postman)](https://skillicons.dev)
+- Desenvolvimento Web:
+
+    [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,windicss)](https://skillicons.dev)
+
+## 
+Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. 
+##
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistilligabriel&layout=compact&theme=dark">
+
+![pistilligabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pistilligabriel&show_icons=true&theme=merko)
