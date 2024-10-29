@@ -1,7 +1,7 @@
 
 # Gabriel Pistilli Carra
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[SeuPerfil]-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-pistilli/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/gabriel-pistilli/)
 
 
 ## 👋 Olá!
