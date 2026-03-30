@@ -29,6 +29,3 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
 ## 
 Fique à vontade para entrar em contato comigo para discutir oportunidades de colaboração, projetos interessantes ou qualquer outro assunto relacionado ao desenvolvimento de software. 
 ##
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pistilligabriel&layout=compact&theme=dark">
-
-![pistilligabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=pistilligabriel&show_icons=true&theme=merko)
