@@ -15,7 +15,7 @@ Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções ino
     [![My Skills](https://skillicons.dev/icons?i=java,javascript,)](https://skillicons.dev)
 - Frameworks e Bibliotecas: 
 
-    [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,angular)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=spring,hibernate,angular,vue)](https://skillicons.dev)
 - Dados: 
 
     [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
